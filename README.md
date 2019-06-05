@@ -1,4 +1,4 @@
-# CIS530_FP
+# Bag-of-BERT on SWA
 CIS530 final project "Bag-of-BERT on SWAG"
 
 # README
